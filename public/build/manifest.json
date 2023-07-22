@@ -1,0 +1,12 @@
+{
+  "resources/css/filament/admin/theme.css": {
+    "file": "assets/theme-c7093501.css",
+    "isEntry": true,
+    "src": "resources/css/filament/admin/theme.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-0d91dc04.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
